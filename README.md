@@ -4,8 +4,8 @@ This is my repository for Week 1 of the Summer 2020 offering of HIST 3814 O.
 
 ## Navigation
 
-* [Notes for this week](https://github.com/ErikHumphrey/hist3814o-s20-week1/blob/master/notes.md)
-* [Journal for this week(https://github.com/ErikHumphrey/hist3814o-s20-week1/blob/master/journal.md)
+* [Notes for this week](notes.md)
+* [Journal for this week(journal.md)
 
 *****
 
