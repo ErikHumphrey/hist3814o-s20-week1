@@ -7,8 +7,6 @@ This is my repository for Week 1 of the Summer 2020 offering of HIST 3814 O.
 * [Notes for this week](notes.md)
 * [Journal for this week](journal.md)
 
-*****
-
 ## Other weeks
 
 Each week of the course has its own repository dedicated to it, though they all share a similar structure. Here are links to the other repositories:
