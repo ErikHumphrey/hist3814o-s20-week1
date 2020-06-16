@@ -38,7 +38,7 @@ Below this text is a separator.
 
 Below this text should be an image hosted outside of the repository. Hopefully, the server hosting the image is up, else the image might not display!
 
-![It worked!](https://i.imgur.com/lUsJZC8.png)
+![It worked!](https://i.imgur.com/lUsJZC8.png "It worked!")
 
 ## Quotes
 
